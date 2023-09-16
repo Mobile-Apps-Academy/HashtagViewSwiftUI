@@ -119,7 +119,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [SwiftUI]: https://img.shields.io/badge/swiftui-000000?style=for-the-badge&logo=swiftui&logoColor=white
 [SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
 
-[Medium]: https://img.shields.io/badge/medium-11111?style=for-the-badge&logo=medium&logoColor=white
+[Medium]: https://img.shields.io/badge/medium-fffff?style=for-the-badge&logo=medium&logoColor=white
 [Medium-url]: https://medium.com/@mobileappsacademy
 [LinkedIn]: https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/company/mobile-apps-academy
