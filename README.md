@@ -55,19 +55,12 @@
   
 </p>
 
-[![MIT License][license-shield]][license-url]
-[![YouTube][youtube-shield]][youtube-url]
-[![Medium]][Medium-url]
-[![LinkedIn]][LinkedIn-url]
-[![Twitter]][Twitter-url]
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/playlist?list=PLFo6MW4q69PxuLT9bc5furp4GvDnIM-iR)
 
-This is a hashtag view developed using swiftUI.
+This is a hashtag view developed using SwiftUI.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
