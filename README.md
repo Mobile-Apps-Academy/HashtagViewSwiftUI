@@ -20,12 +20,6 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<p align="center">
-   <a href="https://www.youtube.com/@MobileAppsAcademy">
-    <img src=" https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
-  </a>
-  </p>
-  
 
   <h3 align="center">Mobile Apps Academy</h3>
 
@@ -37,6 +31,10 @@
     <br />
   </p>
 </div>
+
+<p align="center">
+  <img src="https://api.netlify.com/api/v1/badges/bc438b2e-9f12-4bbe-987e-d36fcef20a2f/deploy-status">
+</p>
 
 [![MIT License][license-shield]][license-url]
 [![YouTube][youtube-shield]][youtube-url]
