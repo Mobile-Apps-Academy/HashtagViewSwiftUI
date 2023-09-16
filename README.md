@@ -33,7 +33,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
+  <a href="https://www.youtube.com/@MobileAppsAcademy">
+    <img src="https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
+  </a>
 </p>
 
 [![MIT License][license-shield]][license-url]
