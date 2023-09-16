@@ -11,16 +11,15 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
 [![MIT License][license-shield]][license-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![Medium]][Medium-url]
 [![LinkedIn]][LinkedIn-url]
 [![Twitter]][Twitter-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
   <a href="https://www.youtube.com/@MobileAppsAcademy">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
