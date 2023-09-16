@@ -33,7 +33,7 @@
 </div>
 
 <p align="center">
-  <img src="https://api.netlify.com/api/v1/badges/bc438b2e-9f12-4bbe-987e-d36fcef20a2f/deploy-status">
+  <img src="https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
 </p>
 
 [![MIT License][license-shield]][license-url]
