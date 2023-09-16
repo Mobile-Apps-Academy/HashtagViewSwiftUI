@@ -70,12 +70,12 @@ This is a hashtag view developed using swiftUI.
     
      ```sh
    HashtagView(
-     tags: hashtags,
-     viewBackground: Color.white,
-     cloudBackground: Color.black,
-     font: .body,
-     action: { text in
-       print("Tag clicked \(text)")     
+        tags: hashtags,
+        viewBackground: Color.white,
+        cloudBackground: Color.black,
+        font: .body,
+        action: { text in
+          print("Tag clicked \(text)")     
    })
    ```
 
