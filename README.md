@@ -11,11 +11,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![MIT License][license-shield]][license-url]
-[![YouTube][youtube-shield]][youtube-url]
-[![Medium]][Medium-url]
-[![LinkedIn]][LinkedIn-url]
-[![Twitter]][Twitter-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,6 +30,12 @@
     <br />
   </p>
 </div>
+
+[![MIT License][license-shield]][license-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![Medium]][Medium-url]
+[![LinkedIn]][LinkedIn-url]
+[![Twitter]][Twitter-url]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
