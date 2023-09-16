@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@MobileAppsAcademy">
-    <img src="https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
+    <img src="https://img.shields.io/badge/youtube-696969.svg?style=for-the-badge&logo=youtube&colorB=555">
   </a>
 
   <a href="https://github.com/Mobile-Apps-Academy//HashtagViewSwiftUI/blob/master/LICENSE.txt">
@@ -42,15 +42,15 @@
   </a>
 
   <a href="https://medium.com/@mobileappsacademy">
-    <img src="https://img.shields.io/badge/medium-808080?style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/medium-696969?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/company/mobile-apps-academy">
-    <img src="https://img.shields.io/badge/linkedin-808080?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-696969?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://twitter.com/MobileAppsAcdmy">
-    <img src="https://img.shields.io/badge/twitter-808080?style=for-the-badge&logo=twitter&logoColor=white">
+    <img src="https://img.shields.io/badge/twitter-696969?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   
 </p>
