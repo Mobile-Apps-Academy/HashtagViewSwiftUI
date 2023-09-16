@@ -113,10 +113,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/Mobile-Apps-Academy/OpenFasionEcommerceSwiftUIApp/blob/master/LICENSE.txt
-[youtube-shield]: https://img.shields.io/badge/-YouTube-black.svg?style=for-the-badge&logo=youtube&colorB=555
+[youtube-shield]: https://img.shields.io/badge/-YouTube-808080.svg?style=for-the-badge&logo=youtube&colorB=555
 [youtube-url]: https://www.youtube.com/@MobileAppsAcademy
 [product-screenshot]: images/screenshot.png
-[SwiftUI]: https://img.shields.io/badge/swiftui-000000?style=for-the-badge&logo=swiftui&logoColor=white
+[SwiftUI]: https://img.shields.io/badge/swiftui-808080?style=for-the-badge&logo=swiftui&logoColor=white
 [SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
 
 [Medium]: https://img.shields.io/badge/medium-808080?style=for-the-badge&logo=medium&logoColor=white
