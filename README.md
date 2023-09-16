@@ -31,14 +31,11 @@
   </p>
 </div>
 
-<p align="center">
-    [![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![Medium]][Medium-url]
 [![LinkedIn]][LinkedIn-url]
 [![Twitter]][Twitter-url]
-  </p>
-
 
 
 <!-- ABOUT THE PROJECT -->
