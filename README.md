@@ -20,9 +20,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <a href="https://www.youtube.com/@MobileAppsAcademy">
+<p align="center">
+   <a href="https://www.youtube.com/@MobileAppsAcademy">
     <img src=" https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
   </a>
+  </p>
+  
 
   <h3 align="center">Mobile Apps Academy</h3>
 
