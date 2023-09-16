@@ -42,7 +42,7 @@
   </a>
 
   <a href="https://medium.com/@mobileappsacademy">
-    <img src="[https://img.shields.io/badge/medium-808080?style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/medium-808080?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/company/mobile-apps-academy">
