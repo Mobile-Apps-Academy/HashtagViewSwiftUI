@@ -37,8 +37,20 @@
     <img src="https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
   </a>
 
-  <a href="https://www.youtube.com/@MobileAppsAcademy">
-    <img src="https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555">
+  <a href="https://github.com/Mobile-Apps-Academy//HashtagViewSwiftUI/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge">
+  </a>
+
+  <a href="https://medium.com/@mobileappsacademy">
+    <img src="[https://img.shields.io/badge/medium-808080?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/company/mobile-apps-academy">
+    <img src="https://img.shields.io/badge/linkedin-808080?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/MobileAppsAcdmy">
+    <img src="https://img.shields.io/badge/twitter-808080?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   
 </p>
@@ -130,15 +142,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/Mobile-Apps-Academy/OpenFasionEcommerceSwiftUIApp/blob/master/LICENSE.txt
+
 [youtube-shield]: https://img.shields.io/badge/youtube-808080.svg?style=for-the-badge&logo=youtube&colorB=555
 [youtube-url]: https://www.youtube.com/@MobileAppsAcademy
-[product-screenshot]: images/screenshot.png
+
+
+
 [SwiftUI]: https://img.shields.io/badge/swiftui-808080?style=for-the-badge&logo=swiftui&logoColor=white
 [SwiftUI-url]: https://developer.apple.com/xcode/swiftui/
 
 [Medium]: https://img.shields.io/badge/medium-808080?style=for-the-badge&logo=medium&logoColor=white
 [Medium-url]: https://medium.com/@mobileappsacademy
+
 [LinkedIn]: https://img.shields.io/badge/linkedin-808080?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/company/mobile-apps-academy
+
 [Twitter]: https://img.shields.io/badge/twitter-808080?style=for-the-badge&logo=twitter&logoColor=white
 [Twitter-url]: https://twitter.com/MobileAppsAcdmy
+
+[product-screenshot]: images/screenshot.png
