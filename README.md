@@ -86,20 +86,20 @@ This is a hashtag view developed using SwiftUI.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Mobile-Apps-Academy/OpenFasionEcommerceSwiftUIApp.git
+   git clone https://github.com/Mobile-Apps-Academy/HashtagViewSwiftUI.git
    ```
 2. Usage
     
-     ```sh
-   HashtagView(
+```swift
+HashtagView(
         tags: hashtags,
         viewBackground: Color.white,
         cloudBackground: Color.black,
         font: .body,
         action: { text in
           print("Tag clicked \(text)")     
-   })
-   ```
+})
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
